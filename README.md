@@ -5,7 +5,7 @@ AUTHORSHIP NOTE: This study was authored by Jacqueline V. Gomez from the College
 
 DATE: 8 May 2024
 
-### ABSTRACT
+## ABSTRACT
 
 INTRODUCTION: Research has shown that Glucagon-Like Peptide-1 Receptor Agonists (GLP-1), initially developed for glycemic control in diabetes, may have broader implications for reducing the increased risk of depression and anxiety (Chen et al., 2024). However, current research in this area remains limited and existing literature has shown inconsistent evidence in the incidence of depression by GLP-1 use(GLP-1 Is Both Anxiogenic and Antidepressant; Divergent Effects of Acute and Chronic GLP-1 on Emotionality - ScienceDirect, n.d.; Kim et al., 2020; Pozzi et al., 2019). This study aimed to investigate the association of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1) use with anxiety and depression among adults (age ≥18 years) with diabetes. 
 
